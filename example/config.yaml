@@ -1,0 +1,5 @@
+# this is a config file, you can set routes, HTML, and markdown files here
+routes:
+ - path: / 
+   template: index.html
+   content: index.md

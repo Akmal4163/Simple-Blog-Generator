@@ -8,4 +8,5 @@ require (
 	github.com/gorilla/css v1.0.1 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.26 // indirect
 	golang.org/x/net v0.25.0 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
