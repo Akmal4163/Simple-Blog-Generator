@@ -9,13 +9,21 @@ You can use this programs to convert markdown files to HTML.
 ## How To Build
 First, you must install go programming language.
 After that, make a new folder.
+
 `mkdir build`
+
 `cd build`
+
 Then, clone this repo.
+
 `git clone https://github.com/Akmal4163/Simple-Blog-Generator.git`
+
 After that, build it.
+
 `go build -o lebsite main.go`
+
 Don't forget to add it to PATH
+
 `sudo bash add_to_path.sh`
 
 Congratulations!!!, you can use Lebsite for your new project.
